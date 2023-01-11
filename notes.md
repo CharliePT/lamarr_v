@@ -19,4 +19,11 @@
 - git diff
 
 ### alternatives
-- git checkout (git branch)
+- git checkout -b new_branch (git branch)
+    - git branch new_branch
+- git checkout new_branch OR git switch new_branch
+
+- use branches to collaborate on projects 
+
+git branch  -M main
+mv move or rename
